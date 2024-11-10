@@ -27,3 +27,5 @@ Certifique-se de ter o **.NET SDK 8** instalado na sua máquina. Caso não tenha
    git clone https://github.com/robert-portilho/arvore-binaria.git
    cd arvore-binaria
    dotnet run
+
+![Exemplo execução](https://github.com/robert-portilho/arvore-binaria/blob/main/exemplo%20arvore%20binaria.png)
